@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f20af1c-e177-4cd7-bd4c-c28d42c9d725" name="Changes" comment="Java Practice">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP1/Knjiga.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP2/Radnik.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP3/Fizikalac.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP3/Investitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP3/Radnik.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP3/SefSmene.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP4/Corba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP4/Jelo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP4/Sarma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/OOP4/Torta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak1$Dom1_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak5IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak5Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak8ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak8WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/Zadaci/Zadatak9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP1/Knjiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2/Radnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP3/Fizikalac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP3/Investitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP3/Radnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP3/SefSmene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP4/Corba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP4/Jelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP4/Sarma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP4/Torta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak5IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak5Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak8ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak8WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zadaci/Zadatak9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LjxX5YfyrGQSzuWaM0jo34bsZC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/dea/IdeaProjects/JavaTest1",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.OOP4.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP2.Main" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP3.Main" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP4.Main" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadaci.Zadatak3" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadaci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadatak6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadaci.Zadatak6" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadaci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OOP4.Main" />
+        <item itemvalue="Application.OOP3.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Zadatak3" />
+        <item itemvalue="Application.Zadatak6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f20af1c-e177-4cd7-bd4c-c28d42c9d725" name="Changes" comment="" />
+      <created>1676398331932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676398331932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice" />
+  </component>
+</project>
